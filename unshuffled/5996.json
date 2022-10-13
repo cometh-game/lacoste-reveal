@@ -1,0 +1,122 @@
+{
+  "name": "The Emerge #5996",
+  "author": "Lacoste",
+  "description": "It all started with a Crocodile... Today, Lacoste continues its adventure in the web3 swamps by allowing these 11,212 Crocodiles to emerge from the depths. Built with the community, for the community.\nThis NFT from Lacoste UNDW3: The Emerge collection is subject to the End User Terms - Lacoste NFT : https://www.lacoste.com/fr/terms-undw3-pfp.html\n©Lacoste 2022",
+  "image": "ipfs://NewUriToReplace/5996.png",
+  "dna": "d2177915fe46ef8bad8dfbf043b791d8c8f87847",
+  "edition": 5996,
+  "date": 1665398825301,
+  "license": "https://www.lacoste.com/fr/terms-undw3-pfp.html",
+  "attributes": [
+    {
+      "trait_type": "G3nome",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue ZAU"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Determined"
+    },
+     {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Teeth",
+      "value": "White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sweater Blue"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bucket Hat Navy Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Front",
+      "value": "Bum Bag Black"
+    },
+    {
+      "trait_type": "~ Terms & Conditions",
+      "value": "https://www.lacoste.com/fr/terms-undw3-pfp.html"
+    },
+    {
+      "trait_type": "~ Resale rights (%)",
+      "value": "7,5"
+    },
+    {
+      "trait_type": "~ Owner can make private use of the NFT",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "~ Owner can display on non-commercial media",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "~ Owner can display on marketplace",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "~ Owner can adapt the NFT",
+      "value": "No"
+    },
+    {
+      "trait_type": "~ Owner can commercialize the NFT on merchandising",
+      "value": "No"
+    }
+  ],
+  "license_details": [
+    {
+      "trait_type": "exclusivity",
+      "value": "false"
+    },
+    {
+      "trait_type": "privateUse",
+      "value": "true"
+    },
+    {
+      "trait_type": "displayOnMarketplaces",
+      "value": "true"
+    },
+    {
+      "trait_type": "displayOnEveryMediaNonCommercial",
+      "value": "true"
+    },
+    {
+      "trait_type": "rightToAdapt",
+      "value": "false"
+    },
+    {
+      "trait_type": "rightToAddALogo",
+      "value": "false"
+    },
+    {
+      "trait_type": "merchandisingRights",
+      "value": "false"
+    }
+  ]
+}
